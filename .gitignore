@@ -10,3 +10,6 @@ repos/
 # Local settings files that may contain a token
 appsettings.local.json
 *.env
+
+# Publish output
+publish/
