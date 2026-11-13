@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GitlabCloner.Cli/GitlabCloner.Cli.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GitlabCloner.Tests/GitlabCloner.Tests.csproj" />
+  </Folder>
+</Solution>
